@@ -14,7 +14,7 @@ header {
   top: 0;
   left: 0;
   right: 0;
-  transition: background-color 0.3s ease;
+  transition: background-color 0.5s ease;
   z-index: 99;
 }
 .scrolled {
@@ -45,7 +45,7 @@ nav {
   height: 38px;
   padding-inline: 20px;
   cursor: pointer;
-  transition: background-color 0.3s ease;
+  transition: background-color 0.5s ease;
 }
 .scrolledButton {
   background-color: #1a8917;
